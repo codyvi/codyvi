@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**codyvi/codyvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Software Engineer at Blue People
+- 🌱 Developing Web with Angular and React
+- 🔥 Working as backend developer with NodeJs!
+- 📷 I’m currently learning Computer vision
+- 📫 How to reach me: You can send me a message directly on my [Linkedin](https://www.linkedin.com/in/david-alonso-cant%C3%BA-mart%C3%ADnez-96457315a/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codyvi&count_private=true&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" />
+</a>
+<p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyvi&layout=compact&hide=HTML" />
+</a>
