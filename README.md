@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Software Engineer at Blue People
+- 🔭 SSr Developer @ Globant
 - 🌱 Developing Web with Angular and React
 - 🔥 Working as backend developer with NodeJs!
 - 📷 I’m currently learning Computer vision
