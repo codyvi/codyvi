@@ -5,11 +5,18 @@
 - 🔥 Working as backend developer with NodeJs!
 - 📷 I’m currently learning Computer vision
 - 📫 How to reach me: You can send me a message directly on my [Linkedin](https://www.linkedin.com/in/david-alonso-cant%C3%BA-mart%C3%ADnez-96457315a/)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codyvi&count_private=true&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" />
+- 
+<div align="center">
+  <img src="docs/appIcon.svg" width="100px" alt="GitHub Stats Extended Logo" />
+  <h1>GitHub Stats Extended</h1>
+  <p>Dynamically generate GitHub stats for your READMEs.</p>
+<a href="https://github-stats-extended.vercel.app/api?username=codyvi">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=codyvi&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=codyvi&theme=light_github" />
+  </picture>
 </a>
-<p><p>
-<a style="text-align: center;" href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyvi&layout=compact&hide=HTML" />
-</a>
+</div>
